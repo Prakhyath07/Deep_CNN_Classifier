@@ -11,5 +11,6 @@ pyYAML
 tqdm
 ensure==1.0.2
 joblib
+scipy
 types-pyYAML
 
