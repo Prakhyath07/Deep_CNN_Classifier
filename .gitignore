@@ -134,3 +134,4 @@ dmypy.json
 artifacts/prepare_callbacks/checkpoint_dir/*
 artifacts/prepare_callbacks/tensorboard_log_dir/*
 artifacts/training/*
+artifacts/prepare_base_model/
