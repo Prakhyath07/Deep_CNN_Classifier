@@ -2,7 +2,8 @@ from deepClassifier.config import ConfigurationManager
 from deepClassifier.components import DataIngestion
 from deepClassifier import logger
 
-STAGE_NAME ="Data Ingestion stage"
+STAGE_NAME = "Data Ingestion stage"
+
 
 def main():
     config = ConfigurationManager()
@@ -12,8 +13,7 @@ def main():
     data_ingestion.unzip_and_clean()
 
 
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     try:
         logger.info(f">>>> stage {STAGE_NAME} started <<<<")
         main()
