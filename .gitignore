@@ -132,5 +132,4 @@ dmypy.json
 *.jpg
 *.zip
 *.h5
-artifacts/prepare_base_model/
-artifacts/prepare_callbacks/tensorboard_log_dir/
+artifacts/
