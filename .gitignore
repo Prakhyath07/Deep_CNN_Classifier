@@ -131,9 +131,6 @@ dmypy.json
 
 *.jpg
 *.zip
-artifacts/prepare_callbacks/checkpoint_dir/*
-artifacts/prepare_callbacks/tensorboard_log_dir/*
-artifacts/training/*
+*.h5
 artifacts/prepare_base_model/
-artifacts/prepare_base_model/base_model_updated.h5
-artifacts/prepare_base_model/base_model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/
