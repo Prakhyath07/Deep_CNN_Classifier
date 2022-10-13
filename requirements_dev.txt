@@ -13,6 +13,7 @@ ensure==1.0.2
 joblib
 scipy
 types-pyYAML
+pywin32==300
 
 ## dev libraries
 pytest==7.1.3
