@@ -133,3 +133,6 @@ dmypy.json
 *.zip
 *.h5
 artifacts/
+mlruns/
+scores.json
+dvc.lock
